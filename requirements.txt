@@ -1,0 +1,10 @@
+streamlit
+joblib
+numpy
+scikit-learn
+torch
+torchvision
+Pillow
+librosa
+soundfile
+opencv-python-headless
